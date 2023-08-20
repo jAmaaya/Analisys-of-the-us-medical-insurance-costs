@@ -1,3 +1,4 @@
+
 # Project: Analysis of the US Medical Insurance Costs
 
 ## Project Goals
@@ -31,11 +32,6 @@ This project aims to perform data analysis on a given database using Python. The
 2. Navigate to the project directory.
 3. Run the Python script to perform the data analysis.
 4. View the results and analysis in the terminal.
-
-## Example
-
-```bash
-python data_analysis.py
 
 ## Author
 Jairo Amaya C.
